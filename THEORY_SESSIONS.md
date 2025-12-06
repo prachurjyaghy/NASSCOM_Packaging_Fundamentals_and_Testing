@@ -63,4 +63,5 @@ All these are on a lead frame to make the metal connections
 2. In 2.1D, an RDL Layer is added
 3. In 2.5D, an Si Interposer which is very close to the 3D
 
-### 
+<img width="1422" height="415" alt="image" src="https://github.com/user-attachments/assets/4af7dcb3-9d15-4643-be05-503f7bff975c" />
+
