@@ -70,3 +70,15 @@ All these are on a lead frame to make the metal connections
 
 
 # From Wafer to Package: Assembly and Manufacturing Essentials
+## Supply Chain and Facilities
+
+1. EDA tools, foundary PDKs --> Design House --> IC Design (GDSII)
+2. Silicon Wafers, Equipment Gaes, Chemicals, Materials --> Wafer Fabrication --> Wafer with fabricated ICs
+3. Substrates, tools, materials, chemicals, Lids --> Package Assembly and Test --> Individual ICs assembled in a package and tested
+4. PCBs, Tools, Materials --> Board Assembly and Test --> Many packages assembled on a board and tested
+5. Components, Tools --> Product Assembly and Test --> Final Product
+
+### Package Manufacturing Unit
+1. Process ATMP: Assembly, Testing, Marking and Packaging. can be done in-house
+2. Organization: OSAT: Outsourced Semiconductor Assembly and Test
+<img width="893" height="286" alt="image" src="https://github.com/user-attachments/assets/d10bf726-12e3-4154-9212-eb53a6aaa0da" />
