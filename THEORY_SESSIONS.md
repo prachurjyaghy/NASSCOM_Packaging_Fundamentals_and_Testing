@@ -25,6 +25,7 @@
 
 ### Package structure
 <img width="520" height="188" alt="image" src="https://github.com/user-attachments/assets/f6bc7454-8e76-4c5c-9d0b-2629e4868c71" />
+     
      1. Die-to_carrier interconnections is done first
      2. Then Carrier to Board interconnections
      3. Then modling is applied over the package
@@ -52,6 +53,7 @@
 ### Anatomy of Packages
 #### Leadframe
 <img width="351" height="420" alt="image" src="https://github.com/user-attachments/assets/d2598bd5-0cfb-4819-823f-11c4e55b1a53" />
+
 All these are on a lead frame to make the metal connections
 
 #### Laminate
@@ -59,9 +61,12 @@ All these are on a lead frame to make the metal connections
 
 #### Advanced package substrates
 <img width="267" height="417" alt="image" src="https://github.com/user-attachments/assets/213961ca-1d00-455d-8c89-e4782608ce82" />
+
 1. Die in 2D sits directly on the substrate
 2. In 2.1D, an RDL Layer is added
 3. In 2.5D, an Si Interposer which is very close to the 3D
 
 <img width="1422" height="415" alt="image" src="https://github.com/user-attachments/assets/4af7dcb3-9d15-4643-be05-503f7bff975c" />
 
+
+# From Wafer to Package: Assembly and Manufacturing Essentials
