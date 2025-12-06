@@ -43,8 +43,20 @@
 6. PoP: Package on Package, seen on memories
 7. CoWoS
 
-##### OPtions for carrier
+#### Options for carrier
 1. Leadframe, laminate, plastic, ceramic (for high temps), organic RDL, silicon, glass
-##### Options for Interconnects
+#### Options for Interconnects
 1. Wirebond: using wires over the mold
 2. Flip-Chip: using bumps/ solder on the underside to make the connections
+
+### Anatomy of Packages
+#### Leadframe
+<img width="351" height="420" alt="image" src="https://github.com/user-attachments/assets/d2598bd5-0cfb-4819-823f-11c4e55b1a53" />
+All these are on a lead frame to make the metal connections
+
+#### Laminate
+<img width="261" height="422" alt="image" src="https://github.com/user-attachments/assets/333d2ae0-7064-4f7a-83aa-a55756dc061e" />
+
+#### Advanced package substrates
+<img width="267" height="417" alt="image" src="https://github.com/user-attachments/assets/213961ca-1d00-455d-8c89-e4782608ce82" />
+
