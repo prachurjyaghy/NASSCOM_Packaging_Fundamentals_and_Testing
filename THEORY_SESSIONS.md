@@ -1,4 +1,4 @@
-# PACKAGING EVOLUTION: FROM Basics to 3D Integration
+# PACKAGING EVOLUTION: From Basics to 3D Integration
 ## PROTECTED ENV to REAL WORLD
 
 1. All the components of the various chips on an SOC to all work together from the manufacturing to the real world usage
@@ -41,7 +41,7 @@
 4. CSP: Chip scale package. Package size is close to Chip size. This is because of the board layout footprint constraints
 5. MCM: Multi Chip Module
 6. PoP: Package on Package, seen on memories
-7. CoWoS
+7. CoWoS: Chip on Waffer on Substrate
 
 #### Options for carrier
 1. Leadframe, laminate, plastic, ceramic (for high temps), organic RDL, silicon, glass
@@ -59,4 +59,8 @@ All these are on a lead frame to make the metal connections
 
 #### Advanced package substrates
 <img width="267" height="417" alt="image" src="https://github.com/user-attachments/assets/213961ca-1d00-455d-8c89-e4782608ce82" />
+1. Die in 2D sits directly on the substrate
+2. In 2.1D, an RDL Layer is added
+3. In 2.5D, an Si Interposer which is very close to the 3D
 
+### 
