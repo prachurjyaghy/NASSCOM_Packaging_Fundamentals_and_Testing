@@ -82,3 +82,15 @@ All these are on a lead frame to make the metal connections
 1. Process ATMP: Assembly, Testing, Marking and Packaging. can be done in-house
 2. Organization: OSAT: Outsourced Semiconductor Assembly and Test
 <img width="893" height="286" alt="image" src="https://github.com/user-attachments/assets/d10bf726-12e3-4154-9212-eb53a6aaa0da" />
+
+### Wafer Pre-Preparation - Grinding and Dicing
+#### Activities inside the cleanroom area
+     1. Wafer Preparation Area (ISO class 7)
+          a. Incoming wafer carried 
+          b. Wafer Inspection 
+          c. Wafer Front Tape Lamination (as back part is going to be used 
+          d. Wafer Backside Grinding 
+          e. Tape fram mounting to backside
+          f. Two step Wafer dicing (laser grooving + Blade dicing)
+     2. 
+          
