@@ -92,5 +92,35 @@ All these are on a lead frame to make the metal connections
           d. Wafer Backside Grinding 
           e. Tape fram mounting to backside
           f. Two step Wafer dicing (laser grooving + Blade dicing)
-     2. 
+     2. Wirebond Packaging
+          a. Start with good dies from the diced waffer
+          b. Die attach: Epoxy as die attach film to attach with the substrate in uniform pattern to avoid voids
+          
+<img width="449" height="197" alt="image" src="https://github.com/user-attachments/assets/71ba351d-dd30-47bd-8d65-5ec7536ac141" />
+
+          c. Curing: To mechanically pack with the substrate
+          d. Wire Bonding:
+               i. EPFO spark
+               ii. Free air ball
+               iii. Ball bond: using ultrasound + normal force with heat
+               iv. Move the capillary tip upwards and makes a loop
+               v. It then comes to the packaging substrate pad
+               vi. It then pressed to make the bond and once the cresend bond is done, cut it off
+               vii. Lead with the wire trail and do the EPO spark and do it all over again
+               viii. Gold is the premium one and other materials are considered as per cost
+
+<img width="230" height="138" alt="image" src="https://github.com/user-attachments/assets/d68650c7-d879-42e6-a86f-59b98e25eb6e" />
+
+<img width="457" height="251" alt="image" src="https://github.com/user-attachments/assets/1ffd3dc0-b139-4e50-9af5-bca08b5cc092" />
+
+          e. Molding (Transfer): Passng the modling compund from one side and flowing through a channel
+<img width="282" height="100" alt="image" src="https://github.com/user-attachments/assets/42b9d46c-f493-48eb-8683-335c10ff8f7c" />
+
+          f. Marking (Laser)
+<img width="217" height="81" alt="image" src="https://github.com/user-attachments/assets/70d782f7-ef59-4347-b79b-0fbf71296d17" />
+
+          g. Singulation (dicing blade)
+<img width="213" height="325" alt="image" src="https://github.com/user-attachments/assets/104beb23-d48a-4c98-826b-36e66427178a" />
+
+     
           
