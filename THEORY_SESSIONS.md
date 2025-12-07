@@ -85,14 +85,16 @@ All these are on a lead frame to make the metal connections
 
 ### Wafer Pre-Preparation - Grinding and Dicing
 #### Activities inside the cleanroom area
-     1. Wafer Preparation Area (ISO class 7)
+##### Wafer Preparation Area (ISO class 7)
           a. Incoming wafer carried 
           b. Wafer Inspection 
           c. Wafer Front Tape Lamination (as back part is going to be used 
           d. Wafer Backside Grinding 
           e. Tape fram mounting to backside
           f. Two step Wafer dicing (laser grooving + Blade dicing)
-     2. Wirebond Packaging
+
+##### Packaging
+     1. Wirebond Packaging
           a. Start with good dies from the diced waffer
           b. Die attach: Epoxy as die attach film to attach with the substrate in uniform pattern to avoid voids
           
@@ -123,7 +125,7 @@ All these are on a lead frame to make the metal connections
 <img width="213" height="325" alt="image" src="https://github.com/user-attachments/assets/104beb23-d48a-4c98-826b-36e66427178a" />
 
      
-     3. Flip Chip Packaging
+     2. Flip Chip Packaging
 <img width="218" height="147" alt="image" src="https://github.com/user-attachments/assets/10d78897-415e-4ab3-b318-2c5806c0561c" />
 
      Balls/ bumps od the die where thepitch is much lower than the PGA packages. Then the bumps are taken through the mold. After dicing there are no bumps
@@ -142,4 +144,30 @@ All these are on a lead frame to make the metal connections
           e. Package is of a different material with one CTE, while Si is of differnt CTE (Coefficient of Thermal Expantion, as a result, they tend to have some stress. So underfill is used to mitigate the stress
 <img width="115" height="145" alt="image" src="https://github.com/user-attachments/assets/3db48df4-3073-4f8e-8556-1bfe7fb00f34" />
 
-          f. 
+          f. Molding
+<img width="298" height="118" alt="image" src="https://github.com/user-attachments/assets/9a9ed2c2-24b9-4ebc-8d6c-937e991bb4d6" />
+
+          g. After Marking , flipping of the chip for the Ball mounting on the substrate. Temp testing is done for it to talk with other dies on the board
+<img width="274" height="175" alt="image" src="https://github.com/user-attachments/assets/bbaa769d-b87d-403d-925d-a317284bcdc7" />
+
+NOTE: In current market, to reduce the size of these packages, one strategy to figure out is to not put them on the substrate right away or go for the wafer level packaging
+
+
+     3. Wafer Level Packaging
+<img width="265" height="142" alt="image" src="https://github.com/user-attachments/assets/39936d28-fd12-40fd-85d5-716102b1de03" />
+
+          a. To restirct size of the package, there is interconnect layer between the RDL and solder balls. Package size is not more than the PGAs
+          b. Reconstitution process. Good dies are put in carrier and done molding and reconstituted
+<img width="635" height="150" alt="image" src="https://github.com/user-attachments/assets/bf193135-b78b-46b2-86ab-a52299ef095c" />
+
+          c. As carried modling is holding the dies, it is flipped for RDL preparation
+<img width="734" height="179" alt="image" src="https://github.com/user-attachments/assets/b88b5a0e-ef67-4fa6-9b46-9453bd9a9e24" />
+
+
+
+          d. Then attache the solder balls adn then laser marking and singulation. The connection is fanning out and is little out of the chip. If chip is having fine connections, there is limitation for the fan in process. (i.e There are lot of bumps, and they are together, they will have reliability problem so the fanout helps)
+<img width="801" height="100" alt="image" src="https://github.com/user-attachments/assets/da2f04df-8df2-4f66-a5b0-af2b4d8c9b42" />
+
+# Ensuring package Reliability: Testing and performance Validation
+
+## Package testing and electrical functionality checks
