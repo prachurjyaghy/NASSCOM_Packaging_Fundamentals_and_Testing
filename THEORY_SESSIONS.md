@@ -123,4 +123,23 @@ All these are on a lead frame to make the metal connections
 <img width="213" height="325" alt="image" src="https://github.com/user-attachments/assets/104beb23-d48a-4c98-826b-36e66427178a" />
 
      
-          
+     3. Flip Chip Packaging
+<img width="218" height="147" alt="image" src="https://github.com/user-attachments/assets/10d78897-415e-4ab3-b318-2c5806c0561c" />
+
+     Balls/ bumps od the die where thepitch is much lower than the PGA packages. Then the bumps are taken through the mold. After dicing there are no bumps
+          a. Bump formation on Si. Top metal later and opening is made with dielectric on the sides. Then underball metalization is done to put the Solder on top of it by reflow process. This reflow is to make the metalization strong on the die
+<img width="496" height="153" alt="image" src="https://github.com/user-attachments/assets/92e54e74-738f-40fb-b5fb-62837f292d76" />
+
+          b. Flip the die, solder balls are seen. Then put this die on a substrate with flux on top of the bond pad to protect it.
+<img width="170" height="150" alt="image" src="https://github.com/user-attachments/assets/6a7819fc-cdde-40b0-91a1-b03f2e34c76c" />
+
+          c. Then pressure and heat is applied to make the join
+<img width="114" height="115" alt="image" src="https://github.com/user-attachments/assets/93f91d18-ee48-4999-8e50-a0b4db2e0b76" />
+
+          d. Fluz cleaning is required as bonds are done
+<img width="140" height="106" alt="image" src="https://github.com/user-attachments/assets/39ae1b52-15cf-42ec-bccf-4a50ce368b48" />
+
+          e. Package is of a different material with one CTE, while Si is of differnt CTE (Coefficient of Thermal Expantion, as a result, they tend to have some stress. So underfill is used to mitigate the stress
+<img width="115" height="145" alt="image" src="https://github.com/user-attachments/assets/3db48df4-3073-4f8e-8556-1bfe7fb00f34" />
+
+          f. 
