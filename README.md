@@ -1,1 +1,1 @@
-# NASSCOM_Packaging_Fundamentals_and_Testing
+# NASSCOM_Semiconductor_Packaging_Fundamentals_and_Testing
