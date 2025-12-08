@@ -165,9 +165,39 @@ NOTE: In current market, to reduce the size of these packages, one strategy to f
 
 
 
-          d. Then attache the solder balls adn then laser marking and singulation. The connection is fanning out and is little out of the chip. If chip is having fine connections, there is limitation for the fan in process. (i.e There are lot of bumps, and they are together, they will have reliability problem so the fanout helps)
+          d. Then attach the solder balls adn then laser marking and singulation. The connection is fanning out and is little out of the chip. If chip is having fine connections, there is limitation for the fan in process. (i.e There are lot of bumps, and they are together, they will have reliability problem so the fanout helps)
 <img width="801" height="100" alt="image" src="https://github.com/user-attachments/assets/da2f04df-8df2-4f66-a5b0-af2b4d8c9b42" />
 
 # Ensuring package Reliability: Testing and performance Validation
 
 ## Package testing and electrical functionality checks
+<img width="831" height="333" alt="image" src="https://github.com/user-attachments/assets/7260fc61-cb9b-4b7a-b814-1deaa5406e49" />
+
+ 1. Map the waffer sorting at the foundry or the OSAT inital stage
+ 2. THen the Package manufacturing
+ 3. Package testing machines are now used
+ 4. System Level Tests on the board level for the specific applications
+ 5. Main goal is to diagnose the packages for any issues
+ 6. This is the yield of the whole manufacturing process
+
+### Package Testing
+<img width="466" height="233" alt="image" src="https://github.com/user-attachments/assets/913763ac-6d2b-4fed-8cc3-a2a523b5c30a" />
+
+     1. Packages are loaded on a tray after singulation and a sockets used to place on a package board
+     2. ASOT: Will check assembly open and short with testing
+     3. Burn-in: Check the thermal stress and voltage stress to ensure early-life reliability
+     4. Final Test: Cold and Hot Tst for validating functional parametric and reliability specs across temperature
+
+#### Assembly Open and Short Test (AOST)
+<img width="911" height="194" alt="image" src="https://github.com/user-attachments/assets/33cdc168-5483-4026-916b-9fafd78eaee3" />
+
+     1. This is to check the functionality for shorts or opens on package leads or balls
+     2. Testing immediately follows Trim and Form (lead frame packages) or Singulation (BGA packages)
+     3. The packages are put through an open/ short test to screen for massive electrical fails before leaving assembly
+     4. There is also a vision inspection to check for damaged or missing balls/ leads and other obvious defects
+     5. Product Grade Sort (PGSRT) catches Aseembly related fails, and sorts into Product Grades: Best > Better > Scrap
+
+#### Burn-in Test
+<img width="399" height="456" alt="image" src="https://github.com/user-attachments/assets/a3fea92d-f4b6-48f7-9fd4-273474025718" />
+
+     1. Objective is to test package components under elevated (stressful) conditions, temperature, voltage and power cycling
