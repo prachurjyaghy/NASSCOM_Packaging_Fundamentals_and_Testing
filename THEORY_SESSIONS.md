@@ -173,12 +173,12 @@ NOTE: In current market, to reduce the size of these packages, one strategy to f
 ## Package testing and electrical functionality checks
 <img width="831" height="333" alt="image" src="https://github.com/user-attachments/assets/7260fc61-cb9b-4b7a-b814-1deaa5406e49" />
 
- 1. Map the waffer sorting at the foundry or the OSAT inital stage
- 2. THen the Package manufacturing
- 3. Package testing machines are now used
- 4. System Level Tests on the board level for the specific applications
- 5. Main goal is to diagnose the packages for any issues
- 6. This is the yield of the whole manufacturing process
+     1. Map the waffer sorting at the foundry or the OSAT inital stage
+     2. THen the Package manufacturing
+     3. Package testing machines are now used
+     4. System Level Tests on the board level for the specific applications
+     5. Main goal is to diagnose the packages for any issues
+     6. This is the yield of the whole manufacturing process
 
 ### Package Testing
 <img width="466" height="233" alt="image" src="https://github.com/user-attachments/assets/913763ac-6d2b-4fed-8cc3-a2a523b5c30a" />
