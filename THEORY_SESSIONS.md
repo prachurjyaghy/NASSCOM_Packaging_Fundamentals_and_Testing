@@ -201,3 +201,25 @@ NOTE: In current market, to reduce the size of these packages, one strategy to f
 <img width="399" height="456" alt="image" src="https://github.com/user-attachments/assets/a3fea92d-f4b6-48f7-9fd4-273474025718" />
 
      1. Objective is to test package components under elevated (stressful) conditions, temperature, voltage and power cycling
+     2. The goal is to identify "Infant MOrtality" failures before it reaches the customer
+     3. Parts are loaded from trays onto Burn-in boards and then into ovens (Burn-in system) during testing
+     3. Burn-in accelerates the failures by applying high voltage and high temperature stress
+     4. The test is carried out long enough to catch the initial rate of failures and then to test slightly over the point where the curve flattens out
+     5. Defects like dielectric & metallization failures, electromigration can be detected during burn-in
+     6. Even if it helps to eliminate unreliable components, as early as possible, the total life span of components is shortened with a burn-in test
+
+
+#### Final Test
+<img width="900" height="221" alt="image" src="https://github.com/user-attachments/assets/a65d614b-503f-4730-8eed-6c5e59d510a0" />
+
+     1. Final test is a temperature corner test to verify that the packaged product meets the specifications
+     2. Parts are loaded into handler with temperature controlled test fixtures (not ovens) during testing
+     3. Hot Test: Elevated temperatures according to product specifications. Parts are electrically tested at high temperatures to verify if the specifications and electrically tested
+
+##### ATE (Automatic Test Equipment)
+     1. Test equipments that send automatic test pattern generation (ATPG) to the device under test (DUT)
+     2. Major test categories:
+          a. Paramteric Tests: measures current (or voltage) from the unit to ensure the circuits are functioning within specified parameters
+          b. Functional Tests: evaluate functionality of the unt=it under operating conditions
+          c. Speed Tests: assesses speed of units according to data sheet specifications. Sorting is done based on speed
+          d. Yield, Testing TIme and Test coverage are key performance indicator during testing
