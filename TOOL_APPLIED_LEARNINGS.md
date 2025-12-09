@@ -82,7 +82,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc2bda40-ea9d-4a61-ba5a-11746519e63d" />
 
 
-### Meshing and Running the Thermal Analysis
+### Meshing and Running the Thermal Analysis for Flip-Chip
 
         1. Generate Mesh will start, if project is not saved it will ask for it. It will run in local machine. 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b30820b-b832-4154-9c85-118b4441b99d" />
@@ -119,3 +119,7 @@
 
         11. The thermal level is showing the conditions based on the temperature plot
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99d50385-6b16-4fdb-b13d-70de5d0b73b7" />
+
+        12. These output will change based on the conditions as per requirement
+
+#### Checking QFN for Meshing and Thermal Analysis
