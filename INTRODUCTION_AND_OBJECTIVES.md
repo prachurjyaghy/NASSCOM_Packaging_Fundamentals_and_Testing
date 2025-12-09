@@ -5,8 +5,8 @@
 ## OBJECTIVE
 This is to learn and understand how the real world chip package is and what kind of processes a chip goes through after the foundry is done fabricating them and before it is implemented on a PCB board for other chips to communicate and form a single product in our real lives
 
-## FUNDAMENTAL LEARNING
+## [FUNDAMENTAL LEARNING]()
     It consists of all the basic theoritical explanation and information of how a chip is packaged for different use cases
 
-## TOOL APPLIED LEARNINGS
+## [TOOL APPLIED LEARNINGS](TOOL_APPLIED_LEARNINGS.md)
     This focuses on the hands-on experience using the ANSYS free too on the desktop to help understand the packages and how it can be tested and diagnosed
