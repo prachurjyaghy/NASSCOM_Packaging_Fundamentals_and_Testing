@@ -46,3 +46,18 @@
 
 #### SI Typical Die
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/522c470e-568a-4ad9-ad38-c07e1e8d7d7e" />
+
+        NOTE: With more advanced packaging, there will be multiple dies on top of each other (Multiple heterogenous layers) with which the thermal conditions also arise
+
+### Check other types of packages
+#### PBGA (Wirebond)
+<img width="1408" height="801" alt="image" src="https://github.com/user-attachments/assets/710a748f-69ad-4853-baf4-9f201522709e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd18db3e-d3a7-4fe6-916c-d7bd2525980c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f31c2609-7a75-4ca2-a261-d5c29f312592" />
+
+
+#### QFN
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f5cbfbe-8a00-4769-9c80-9760944bbf0c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b42a4b7-8aa5-4ba9-ac98-c5588791a13a" />
