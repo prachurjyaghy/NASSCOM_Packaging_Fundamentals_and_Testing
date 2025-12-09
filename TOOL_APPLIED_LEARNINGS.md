@@ -61,3 +61,22 @@
 #### QFN
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f5cbfbe-8a00-4769-9c80-9760944bbf0c" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b42a4b7-8aa5-4ba9-ac98-c5588791a13a" />
+
+
+### Material Definations and Thermal Power Sources
+
+        1. Go to the Model to check the data
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/613ef26e-9620-43d0-91c0-268fb964ae6d" />
+
+        2. Now the thermal condition to put throught the die
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a672f285-06aa-457a-81f6-4de54c444644" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b288af27-f996-49c4-aff2-7fbc8ccb45de" />
+
+        3. Define the source using temperature as the thermal condition. It could throw a warning, we can remove the other condition for thermal and only keep one
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/515e5d3b-1569-4452-a779-267ecd308051" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d42afd55-c43a-496c-9e0d-4d5dcf686913" />
+
+        4. Add a monitor on the substrate, die and underfill for temperature
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c8d1fd9-eb5a-411f-85ea-d8d95d0e0320" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e64d8f36-d5b9-4975-b3f6-ce41ee611ae1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc2bda40-ea9d-4a61-ba5a-11746519e63d" />
