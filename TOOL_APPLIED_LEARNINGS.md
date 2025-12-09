@@ -26,4 +26,23 @@
     1. 1 W power depends on the frequency on how much the chip can withstand
     2. Heatsink may or may not be there based on the cost
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c60409cb-3b3f-46ca-9ab1-c1b88b7cc861" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52e79959-de8f-4be9-a920-12b6e71fa456" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eccd079-c02a-48ba-aeca-4b33e9aca02b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91633037-7eec-4b8a-9b2a-ea4e64367cca" />
+
+### Check the different layers of the package
+#### Substrate
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94a3d7cc-b390-479f-a6fd-692d63f6da60" />
+
+#### Underfill
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e013ec2-4f65-49b9-8155-c1a382f66c14" />
+
+#### VIA Material
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53230859-98d9-402f-8eb8-5f05a078dc40" />
+
+#### SI Typical Die
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/522c470e-568a-4ad9-ad38-c07e1e8d7d7e" />
