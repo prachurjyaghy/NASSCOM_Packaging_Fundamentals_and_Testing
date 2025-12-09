@@ -80,3 +80,42 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c8d1fd9-eb5a-411f-85ea-d8d95d0e0320" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e64d8f36-d5b9-4975-b3f6-ce41ee611ae1" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc2bda40-ea9d-4a61-ba5a-11746519e63d" />
+
+
+### Meshing and Running the Thermal Analysis
+
+        1. Generate Mesh will start, if project is not saved it will ask for it. It will run in local machine. 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b30820b-b832-4154-9c85-118b4441b99d" />
+
+        2. Shows number of elements andvarious properties
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bea45da5-245d-46f8-a371-837bd9c0fdc1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/089decb4-eb66-4ccc-b265-d7bc94440bdb" />
+
+        3. Mesh is a more important parameter to check the accurate structure. We can select and redo if required
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ab6f025-704f-4548-a99b-4e516c8d498c" />
+
+        4. Add an analysis setup
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41fab826-72d3-4222-98ea-fb03e07b77d2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/075f28a6-54ae-446f-acbc-5b52a12ed50c" />
+
+        5. Now do validation and all green means it is good to go. It will not show the boundary conditions, only once we analyse will find out
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ada4cb6-f1d0-42ac-a0bf-e025e4f6eb8b" />
+
+        6. If we get warning for underfill not having mesh, we can add it too
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/019626b5-f7a7-4a47-a213-0345791167fd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/104d8ee4-0ae7-4313-b3e9-24ea1566e792" />
+
+        7. Run the mesh again for the whole as we generated mesh for a region only, validation should pass
+        8. After this Click on Analyze All
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0efde475-adf1-4c1e-90da-c693a56bd44e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1bdd6db-5262-4e00-988a-2c9b755384b6" />
+
+        9. Once normal completion message is shown, select the package and go to plot fields.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce59ce03-71d2-47c5-b2ee-060ca5639005" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f881660a-fe4d-4345-8cb0-affb2cee6dbf" />
+
+        10. Select the fields and click on Done
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/213ebb52-9723-45af-a86d-9d6309910f4b" />
+
+        11. The thermal level is showing the conditions based on the temperature plot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99d50385-6b16-4fdb-b13d-70de5d0b73b7" />
