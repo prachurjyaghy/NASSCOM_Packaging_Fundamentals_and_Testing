@@ -62,12 +62,3 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - Material property modelling  
 
 ---
-
-## 📂 Suggested Folder Structure
-
-```text
-NASSCOM_Semicon_Packaging_Fundamentals_and_Testing/
- ┣ README.md
- ┣ FUNDAMENTAL_LEARNINGS.md
- ┣ TOOL_APPLIED_LEARNINGS.md
- ┣ 📂 ANSYS_PROJECT/
