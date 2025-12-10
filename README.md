@@ -62,3 +62,20 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - Material property modelling  
 
 ---
+
+🧑‍💻 Ideal For
+
+Students & engineers entering semiconductor packaging, reliability, or DFT
+
+Anyone learning ANSYS for thermal/structural analysis
+
+Recruiters reviewing hands-on semiconductor packaging knowledge
+
+🤝 Contributions
+
+This repo reflects my personal learning — but suggestions, corrections, and extensions are welcome.
+Feel free to raise issues or start discussions!
+
+⭐ Like This Repository?
+
+If it helped you understand semiconductor packaging better, please ⭐ the repo — it motivates me to add more simulations, visuals, and notes.
