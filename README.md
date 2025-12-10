@@ -1,43 +1,98 @@
 # 🧪 NASSCOM Semicon Packaging Fundamentals & Testing  
-*A Workshop Portfolio — From Theory to ANSYS-based Simulations*
+*A Complete Workshop Portfolio — Theory + ANSYS-Based Application*
 
-<p align="center">  
-  <img src="assets/semicon_packaging_banner.png" alt="Semiconductor Packaging Banner" width="90%">  
+<p align="center">
+  <img src="assets/semiconductor_banner.png" alt="Semiconductor Packaging Banner" width="90%">
 </p>
 
-## 🎯 Objective  
-This repository captures my learning journey through semiconductor-packaging fundamentals and hands-on testing workflows — from wafer-out to PCB integration. The goal is to understand what happens post-foundry, what goes into packaging, testing, and reliability analysis before a chip becomes part of a real system.
+Welcome to my repository documenting my journey through the **NASSCOM Semiconductor Packaging & Testing Workshop**, covering everything from foundational theory to **hands-on simulations using ANSYS**.
 
-> “Know how a chip ends up looking on a PCB — and what needs to be done before the first boot.”  
-
----
-
-## 📚 Repository Overview  
-
-| Section | Contents |
-|--------|----------|
-| **FUNDAMENTAL_LEARNINGS.md** | Theoretical foundations — packaging types, interconnects, materials, standards, reliability & manufacturing workflows |
-| **TOOL_APPLIED_LEARNINGS.md** | Practical exercises using ANSYS: package-level modelling, thermal & structural simulations, stress analysis, reliability assessments |
-| **/assets** | Diagrams, images, simulation screenshots, packaging cross-sections, thermal/stress plots, etc. (you can add this folder if not present) |
+This repo is designed to give a structured, industry-ready overview of **post-silicon processes**, packaging flows, reliability mechanisms, and practical analysis skills.
 
 ---
 
-## ✅ What This Workshop Covers  
-
-- Semiconductor packaging fundamentals: package types (QFN, BGA, WLP, Flip-Chip, 2.5D/3D), interconnects (wire-bond, micro-bumps, TSV), substrate & materials, PCB integration  
-- Manufacturing flow: wafer out → die attach → molding / underfill / substrate attach → testing → packaging verification  
-- Reliability and failure mechanisms: thermal cycling, solder fatigue, warpage, mechanical stress, thermal/mechanical coupling  
-- Simulation-based testing using ANSYS: from structural and thermal analysis to package-level stress/strain visualization and reliability estimation  
+## 📌 Objectives
+- Understand how a chip moves from *wafer* → *package* → *functional product*
+- Learn semiconductor package structures, materials, and manufacturing flows
+- Perform thermal, structural, and reliability analyses using **ANSYS**
+- Build a strong foundation for **Semiconductor Packaging**, **Reliability Engineering**, and **FEA Simulation**
 
 ---
 
-## 📂 Suggested Repository Structure  
+## 📁 Repository Contents (Clickable)
+
+| File / Folder | Description |
+|---------------|-------------|
+| 👉 **[FUNDAMENTAL_LEARNINGS.md](./FUNDAMENTAL_LEARNINGS.md)** | Complete theory: package types, interconnects, PCB integration, failure mechanisms |
+| 👉 **[TOOL_APPLIED_LEARNINGS.md](./TOOL_APPLIED_LEARNINGS.md)** | ANSYS-based simulations: thermal, structural, stress, reliability workflows |
+| 📂 **[assets/](./assets/)** | Images, diagrams, simulation screenshots |
+| 📂 **reports/** *(optional)* | Exported PDFs or notes |
+| 📂 **simulation-models/** *(optional)* | ANSYS project files |
+
+---
+
+## 🧠 Workshop Learning Highlights
+
+### **1️⃣ Semiconductor Packaging Fundamentals**
+- Die attach, underfill, molding, wirebond, TSV, microbump technologies  
+- 2D, 2.5D, and 3D packaging  
+- QFN, BGA, WLP, Flip-Chip, FC-BGA  
+- Material selection and thermal/mechanical considerations
+
+<p align="center">
+  <img src="assets/packaging_cross_section.png" alt="Packaging Cross Section" width="70%">
+</p>
+
+---
+
+### **2️⃣ Manufacturing Workflow**
+- Wafer thinning  
+- Die preparation  
+- Interconnect formation  
+- Package assembly  
+- Encapsulation  
+- Post-packaging & PCB tests
+
+<p align="center">
+  <img src="assets/manufacturing_flow.png" alt="Manufacturing Flow" width="75%">
+</p>
+
+---
+
+### **3️⃣ Reliability & Failure Analysis**
+- Thermal Cycling  
+- Warpage & Mechanical Stress  
+- Delamination  
+- Electromigration  
+- Solder Joint Fatigue  
+
+<p align="center">
+  <img src="assets/reliability_failure_modes.png" alt="Failure Modes" width="70%">
+</p>
+
+---
+
+### **4️⃣ ANSYS Tool-Based Learnings**
+- Steady-state & transient **thermal analysis**  
+- Structural deformation & stress mapping  
+- Co-simulation (Thermal + Mechanical)  
+- Package-level reliability estimation  
+- Material property modelling  
+
+<p align="center">
+  <img src="assets/ansys_thermal.png" alt="Thermal Simulation" width="45%">
+  <img src="assets/ansys_stress.png" alt="Stress Simulation" width="45%">
+</p>
+
+---
+
+## 📂 Suggested Folder Structure
 
 ```text
-semicon-packaging-workshop/
- ┣ 📄 README.md
- ┣ 📄 FUNDAMENTAL_LEARNINGS.md
- ┣ 📄 TOOL_APPLIED_LEARNINGS.md
- ┣ 📂 assets/             ← diagrams, images, simulation outputs  
- ┣ 📂 simulation-models/  ← ANSYS models (optional)  
- ┣ 📂 reports/            ← exported simulation results, pdfs, notes  
+NASSCOM_Semicon_Packaging_Fundamentals_and_Testing/
+ ┣ README.md
+ ┣ FUNDAMENTAL_LEARNINGS.md
+ ┣ TOOL_APPLIED_LEARNINGS.md
+ ┣ 📂 assets/
+ ┣ 📂 reports/           (optional)
+ ┗ 📂 simulation-models/ (optional)
