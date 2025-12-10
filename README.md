@@ -1,10 +1,6 @@
 # 🧪 NASSCOM Semicon Packaging Fundamentals & Testing  
 *A Complete Workshop Portfolio — Theory + ANSYS-Based Application*
 
-<p align="center">
-  <img src="assets/semiconductor_banner.png" alt="Semiconductor Packaging Banner" width="90%">
-</p>
-
 Welcome to my repository documenting my journey through the **NASSCOM Semiconductor Packaging & Testing Workshop**, covering everything from foundational theory to **hands-on simulations using ANSYS**.
 
 This repo is designed to give a structured, industry-ready overview of **post-silicon processes**, packaging flows, reliability mechanisms, and practical analysis skills.
@@ -25,9 +21,7 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 |---------------|-------------|
 | 👉 **[FUNDAMENTAL_LEARNINGS.md](./FUNDAMENTAL_LEARNINGS.md)** | Complete theory: package types, interconnects, PCB integration, failure mechanisms |
 | 👉 **[TOOL_APPLIED_LEARNINGS.md](./TOOL_APPLIED_LEARNINGS.md)** | ANSYS-based simulations: thermal, structural, stress, reliability workflows |
-| 📂 **[assets/](./assets/)** | Images, diagrams, simulation screenshots |
-| 📂 **reports/** *(optional)* | Exported PDFs or notes |
-| 📂 **simulation-models/** *(optional)* | ANSYS project files |
+| 📂 **simulation-models/** | ANSYS project files |
 
 ---
 
@@ -39,10 +33,6 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - QFN, BGA, WLP, Flip-Chip, FC-BGA  
 - Material selection and thermal/mechanical considerations
 
-<p align="center">
-  <img src="assets/packaging_cross_section.png" alt="Packaging Cross Section" width="70%">
-</p>
-
 ---
 
 ### **2️⃣ Manufacturing Workflow**
@@ -53,10 +43,6 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - Encapsulation  
 - Post-packaging & PCB tests
 
-<p align="center">
-  <img src="assets/manufacturing_flow.png" alt="Manufacturing Flow" width="75%">
-</p>
-
 ---
 
 ### **3️⃣ Reliability & Failure Analysis**
@@ -65,10 +51,6 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - Delamination  
 - Electromigration  
 - Solder Joint Fatigue  
-
-<p align="center">
-  <img src="assets/reliability_failure_modes.png" alt="Failure Modes" width="70%">
-</p>
 
 ---
 
@@ -79,11 +61,6 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - Package-level reliability estimation  
 - Material property modelling  
 
-<p align="center">
-  <img src="assets/ansys_thermal.png" alt="Thermal Simulation" width="45%">
-  <img src="assets/ansys_stress.png" alt="Stress Simulation" width="45%">
-</p>
-
 ---
 
 ## 📂 Suggested Folder Structure
@@ -93,6 +70,4 @@ NASSCOM_Semicon_Packaging_Fundamentals_and_Testing/
  ┣ README.md
  ┣ FUNDAMENTAL_LEARNINGS.md
  ┣ TOOL_APPLIED_LEARNINGS.md
- ┣ 📂 assets/
- ┣ 📂 reports/           (optional)
- ┗ 📂 simulation-models/ (optional)
+ ┣ 📂 ANSYS_PROJECT/
