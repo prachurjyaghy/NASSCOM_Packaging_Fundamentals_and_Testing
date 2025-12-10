@@ -123,3 +123,22 @@
         12. These output will change based on the conditions as per requirement
 
 #### Checking QFN for Meshing and Thermal Analysis
+
+    Tried the QFN and PBGA for wirebond, could not figure out why the intersect is happening. Might have missed something
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8d1b50e-5bba-4b02-a1ab-ae09ef4aea1c" />
+
+
+# Building a Semicon Package from Scratch
+## Package cross-section modeling in ANSYS
+
+        1. Previously we loaded the package directly with the flow. Will now build every step from scratch
+        2. Objective is to start from die to the molding of the package
+        3. Previously we went through the thermal analysis, but it is more than that. We need to do the electrical analysis too for creating a design
+
+### Creating the Die and Substrate 
+        1. The Die size will be based on the final range as per requirement which will be determined after the waffer tinning is done and it moves ahead in the process (Ex: like the High Band width, which has stacking)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6da5d5a2-7082-4372-9db9-d26b5df9c279" />
+
+        2. After we give the die size, will thicken the sheet as below
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7aa152f9-0850-48c3-9cd9-b872145b601e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac99feec-eb67-4225-bd7c-abb9285c96eb" />
