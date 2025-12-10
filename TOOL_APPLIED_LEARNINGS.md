@@ -142,3 +142,25 @@
         2. After we give the die size, will thicken the sheet as below
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7aa152f9-0850-48c3-9cd9-b872145b601e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac99feec-eb67-4225-bd7c-abb9285c96eb" />
+
+        3. Update the property of the rectangle created with the Name and Material
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e37bf02-fd83-4024-a7ff-f4ebbcc2cf2b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4786553-1b9c-47a9-b819-4accd0c2d22e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5ed7d79-99ea-42a3-b603-fc1c816531f6" />
+
+        4. Create another rectangle for the substrate and update the size values
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87299ae0-e6b4-4ef9-9898-064239e28e88" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e566ac2b-b53e-4f7d-a1a6-9fc7dd2f1dcd" />
+
+        5. Now do the thicken sheet process of 0.5mm for the substrate
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2ff60c9-9eac-4620-9b9f-249471447e40" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0de13b2-6a95-4cb2-8dc2-e67c8ce3c04d" />
+
+        6. As substrate should not cover the die, will change the thickness to -0.5mm
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d1e6dde-f7fd-4312-99a7-136e312e842d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/da9e58a7-59db-41cb-a5de-16f0cc3d9925" />
+
+        7. As we have seen in the previous packages, the die will not directly sit on top of the substrate an is incorrect
+
+
+### Adding Die Attach Material and Bond Pads
