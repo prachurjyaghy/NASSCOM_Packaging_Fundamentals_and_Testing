@@ -195,3 +195,20 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2fdcf3f-ed77-402c-a621-bfa7c5cfe5ae" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2968ae28-d3fa-4c60-8a58-5d5376acec54" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aef1e83a-6c36-4e14-b1df-476a218448f0" />
+
+        2. Following this method, we can complete the bond over all the die and substrate
+        3. Assign material for the bondwire and has to be ductile to be able to bend and be connected to the substrate
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b0a9d76-2e73-435d-8f04-03462478d4d5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85c5ec58-758f-438d-bebe-89c4e828355e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13f5bd48-3689-4258-a8f6-791f571da60e" />
+
+        4. If in search of bondwire for gold type, all the performance levels are mentioned
+
+
+### Applying Mold Compound and Finalizing the Package Model
+        1. Create a rectangle over the substrate and thicken sheet of 1.2mm and update the material to Epoxy
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d06ef46-43e8-4ef4-928a-794233bfcaf3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1430b887-01cc-44f4-a848-c616c2f11af0" />
+
+        2. Now the height of the mold compund is higher that it is more than wire bond because when the laser marking happens there is enough headroom of effecting the wirebond
+        3. After this the electrical and analysis can be done on these packages as similar to the built in packages in the icepak tool
