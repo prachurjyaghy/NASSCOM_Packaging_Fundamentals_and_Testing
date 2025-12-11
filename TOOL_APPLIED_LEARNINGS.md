@@ -164,3 +164,34 @@
 
 
 ### Adding Die Attach Material and Bond Pads
+        1. Edit the substrate rectangle
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b026dc5-803f-4614-8267-7995e70b6b2a" />
+
+        2. Create a space in between for the die attach
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25398edb-6b2f-4f46-9a63-5c26e03937fe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/306ff812-4d31-480a-871e-a78a3a5c67cc" />
+
+        3. Add a die attach material. Create a rectangle over the die and make the changes
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a614a915-2702-4e4d-8cc0-0d78804bd3d9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48430aca-8584-4bc2-9d60-a6835c1ab4ca" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abfa182e-9c2d-4f26-b5d7-fae3a4899d04" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e938a6d-ba07-487f-825f-05cc2de6563c" />
+
+        4. Create bonds between two bond pads of the substrate and on the die. 
+        5. Add the die position from the centre as below and thicken the sheet
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d7f9d44-73e1-419d-8794-9a3f13515e5f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f40fc60-7a87-42ce-84fd-434cb5b3f9a8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcd3e8f6-2a36-4a37-9f98-bec3446718f3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe523d3-bbba-494e-bce8-ea0a69fe567c" />
+
+        6. Now create bonds on the substrate and thicken sheet
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22762d5f-86c6-40b9-bd63-ba9651e41ee9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13fbfb7e-f183-442d-a6a7-6e95f9bc8386" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e31a4f29-b3b7-419e-8190-20d3d64d9aa2" />
+
+
+### Wire Bond Creation and Material Assignment
+        1. Go to the Draw option of bondwire. Start and end with the middle of the bond. There are different weight of the wires. Will take the deafult on here. If the height needs to be higher then we can coose accordingly
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2fdcf3f-ed77-402c-a621-bfa7c5cfe5ae" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2968ae28-d3fa-4c60-8a58-5d5376acec54" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aef1e83a-6c36-4e14-b1df-476a218448f0" />
