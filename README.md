@@ -19,7 +19,7 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 
 | File / Folder | Description |
 |---------------|-------------|
-| 👉 **[FUNDAMENTAL_LEARNINGS.md](./FUNDAMENTAL_LEARNINGS.md)** | Complete theory: package types, interconnects, PCB integration, failure mechanisms |
+| 👉 **[FUNDAMENTAL_LEARNINGS.md](./FUNDAMENTAL_LEARNINGS.md)**   | Complete theory: package types, interconnects, PCB integration, failure mechanisms |
 | 👉 **[TOOL_APPLIED_LEARNINGS.md](./TOOL_APPLIED_LEARNINGS.md)** | ANSYS-based simulations: thermal, structural, stress, reliability workflows |
 | 📂 **ANSYS_PROJECTS/** | ANSYS project files |
 
