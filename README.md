@@ -10,8 +10,8 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 ## 📌 Objectives
 - Understand how a chip moves from *wafer* → *package* → *functional product*
 - Learn semiconductor package structures, materials, and manufacturing flows
-- Perform thermal, structural, and reliability analyses using **ANSYS**
-- Build a strong foundation for **Semiconductor Packaging**, **Reliability Engineering**, and **FEA Simulation**
+- Perform thermal, electrical, and reliability analyses using **ANSYS**
+- Build a strong foundation for **Semiconductor Packaging** and **Reliability Engineering**
 
 ---
 
@@ -20,7 +20,7 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 | File / Folder | Description |
 |---------------|-------------|
 | 👉 **[FUNDAMENTAL_LEARNINGS.md](./FUNDAMENTAL_LEARNINGS.md)**   | Complete theory: package types, interconnects, PCB integration, failure mechanisms |
-| 👉 **[TOOL_APPLIED_LEARNINGS.md](./TOOL_APPLIED_LEARNINGS.md)** | ANSYS-based simulations: thermal, structural, stress, reliability workflows |
+| 👉 **[TOOL_APPLIED_LEARNINGS.md](./TOOL_APPLIED_LEARNINGS.md)** | ANSYS-based simulations: thermal, electrical, reliability workflows |
 | 📂 **ANSYS_PROJECTS/** | ANSYS project files |
 
 ---
@@ -31,7 +31,7 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 - Die attach, underfill, molding, wirebond, TSV, microbump technologies  
 - 2D, 2.5D, and 3D packaging  
 - QFN, BGA, WLP, Flip-Chip, FC-BGA  
-- Material selection and thermal/mechanical considerations
+- Material selection and thermal/electrical considerations
 
 ---
 
@@ -46,27 +46,23 @@ This repo is designed to give a structured, industry-ready overview of **post-si
 ---
 
 ### **3️⃣ Reliability & Failure Analysis**
-- Thermal Cycling  
-- Warpage & Mechanical Stress  
-- Delamination  
+- Thermal Analysis  
+- Electrical Analysis   
 - Electromigration  
 - Solder Joint Fatigue  
 
 ---
 
-### **4️⃣ ANSYS Tool-Based Learnings**
-- Steady-state & transient **thermal analysis**  
-- Structural deformation & stress mapping  
-- Co-simulation (Thermal + Mechanical)  
-- Package-level reliability estimation  
-- Material property modelling  
+### **4️⃣ ANSYS Tool-Based Learnings**   
+- Co-simulation (Thermal + Electrical)  
+- Package-level reliability estimation   
 
 ---
 
 🧑‍💻 Ideal For
 
   -> Students & engineers entering semiconductor packaging, reliability, or DFT
-  -> Anyone learning ANSYS for thermal/structural analysis
+  -> Anyone learning ANSYS for thermal/electrical analysis
   -> Recruiters reviewing hands-on semiconductor packaging knowledge
 
 ---
